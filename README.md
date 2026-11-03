@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Infobyte Internship Projects - Wed Development
+Oasis Infobyte Internship Projects - Web Development
